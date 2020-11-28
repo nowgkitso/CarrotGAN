@@ -12,6 +12,7 @@ TBC....
 ## Prerequisites
 
 ( Lab Docker ) cu10.1-dnn7.6-gpu-pytorch-cv-19.12
+dir clone /home/ubuntu/Desktop/tso (PC) and /workspace/tso (Docker)
 
 ## Refrence
 
